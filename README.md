@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Angadi</h1>
-<h3 align="center">A passionate embedded software developer from India</h3>
+<h3 align="center">🔧 Passionate about Embedded Systems | Seeking Opportunities in the Embedded Field from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasa08&label=Profile%20views&color=0e75b6&style=flat" alt="tejasa08" /> </p>
 
